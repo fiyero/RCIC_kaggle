@@ -14,6 +14,10 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - Build customize dataset class and dataloader to load the dataset
 - Build prototype model with densenet-121 structure with Pytorch, just first 100 data with 10 epochs and ran successfully
 
+## Day 3 10th Sep 2019
+- Customized the classifier part of densne-121 with dropout and batchnorm
+- Starting full run with whole complete training set with batch_size=6, lr=0.001, epoch=20, print and validate every 1200
+
 ## TBC
-- Add augmentation
+- Find the proper way for augmentation in 6 channel image
 - Se resnet structure
