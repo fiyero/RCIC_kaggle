@@ -11,9 +11,9 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - take a quick scan of the dataset, EDA
 
 ## Day 2 9th Sep 2019
-- Customize dataset class and dataloader to load the dataset
+- Build customize dataset class and dataloader to load the dataset
 - Build prototype model with densenet-121 structure with Pytorch, just first 100 data with 10 epochs and ran successfully
 
 ## TBC
 - Add augmentation
-- Seresnet structure
+- Se resnet structure
