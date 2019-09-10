@@ -17,6 +17,9 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 ## Day 3 10th Sep 2019
 - Customized the classifier part of densne-121 with dropout and batchnorm
 - Starting full run with whole complete training set with batch_size=6, lr=0.001, epoch=20, print and validate every 1200
+- Ran 5 hours for 4 epochs, obtained the following result and decided to early stop it
+- ![v1](https://github.com/fiyero/RCIC_kaggle/blob/master/1st_run.JPG)
+- Adjust lr into 0.001 and accumulate gradient update into batch_size=30
 
 ## TBC
 - Find the proper way for augmentation in 6 channel image
