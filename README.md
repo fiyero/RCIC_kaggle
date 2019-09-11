@@ -25,6 +25,7 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 ## Day 4 11th Sep 2019
 - Pioneer submission of the public score is so bad, thinking whether the poor result is due to imbalance data/sub-optimal training/in appropriate loss function nor poor model archiecture
 - Try with resnetxt 50 model with lr= 0.001, accumulate gradient batch_size=60, Customized classifier
+- edit callbacks schedule, save checkpt after every epoch and the best checkpt every 500 steps
 - if similar situation occur should go back to deal with the data set
 
 ## TBC
