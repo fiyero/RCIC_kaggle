@@ -33,6 +33,7 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - model v2 resnetxt 50 took almost 2 hours to train for one epoch with 1080ti, which is impractical for me to continue. From the Kaggle discussion generally people have to train 2x-4x epochs to reach optimal. 
 - I switch back to densenet121 and lower the frequency to do validation hoping to lower the training time
 - if still take 1 hr + for one epoch I will largely simplify the classifer 
+- anyways I look at the inference result I think I should edit the dataset preprocessing way 
 
 ## TBC
 - Find the proper way for augmentation in 6 channel image
