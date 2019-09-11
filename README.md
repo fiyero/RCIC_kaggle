@@ -19,10 +19,14 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - Starting full run with whole complete training set with batch_size=6, lr=0.001, epoch=20, print and validate every 1200
 - Ran 5 hours for 4 epochs, obtained the following result and decided to early stop it <br/>
 - ![v1](https://github.com/fiyero/RCIC_kaggle/blob/master/1st_run.JPG)<br/>
-- Adjust lr into 0.001 and accumulate gradient update into batch_size=30
+- Adjust lr into 0.0001 and accumulate gradient update into batch_size=30
 - rewrite and fix the mean_val_loss
+
+## Day 4 11th Sep 2019
+- Pioneer submission of the public score is so bad, thinking whether the poor result is due to imbalance data/sub-optimal training/in appropriate loss function nor poor model archiecture
+- Try with resnetxt 50 model with lr= 0.001, accumulate gradient batch_size=30, Customized classifier
+- if similar situation occur should go back to deal with the data set
 
 ## TBC
 - Find the proper way for augmentation in 6 channel image
-- Se resnet structure
 - how to use train_control csv?
