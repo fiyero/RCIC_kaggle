@@ -35,6 +35,13 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - if still take 1 hr + for one epoch I will largely simplify the classifer 
 - anyways I look at the inference result I think I should edit the dataset preprocessing way 
 
+## Day 8 15th Sep 2019
+- didnt update for a few days because busy at researching data sciecne master related info
+- found that simplifying the classifier actually give better result and now one epoch run for around 35mins
+- pretty sure cannot finalize the training model within 10 days
+
 ## TBC
 - Find the proper way for augmentation in 6 channel image
 - how to use train_control csv?
+- rewrite the pipeline for creating dataset
+- 
