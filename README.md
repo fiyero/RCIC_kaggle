@@ -40,8 +40,13 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - found that simplifying the classifier actually give better result and now one epoch run for around 35mins
 - pretty sure cannot finalize the training model within 10 days
 
+## Day 10 17th Sep 2019
+- model v5 resnetxt
+- rewrite dataloader, make use of the official rxrx repo to merge 6-channel image into RGB
+- use albumentations for faster augmentation
+- img size 512, lr =0.001, batch_size=12
+
 ## TBC
-- Find the proper way for augmentation in 6 channel image
 - how to use train_control csv?
-- rewrite the pipeline for creating dataset
+- CosFace loss function?
 - 
