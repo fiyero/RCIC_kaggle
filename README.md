@@ -45,6 +45,7 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - rewrite dataloader, make use of the official rxrx repo to merge 6-channel image into RGB
 - use albumentations for faster augmentation
 - img size 512, lr =0.001, batch_size=12
+- >90mins for one epoch
 
 ## TBC
 - how to use train_control csv?
