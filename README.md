@@ -3,8 +3,8 @@
 https://www.kaggle.com/c/recursion-cellular-image-classification
 
 ### My goal:
-- Finalize the final submission within 10 days
-- aim to get into top 30% or above
+- Finalize the final submission ~~within 10 days~~ (failed)
+- aim to get into top ~~17% or above~~ (not enough time and effort)
 
 # Developing log
 ## Day 1 8th Sep 2019
