@@ -47,7 +47,14 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - img size 512, lr =0.001, batch_size=12
 - more than 90mins for one epoch
 
+## Day 11 18th Sep 2019
+- model v6 efficientNet B5
+- still keep experimenting single best model, now trying efficientNet in Pytorch
+- freeze the extraction layers and train classifier only for 2 warm up epochs then continue the training to see if have improvement
+- batch_size=4, accumulate batch update into batch_size=16, lr=0.001
+
+
 ## TBC
 - how to use train_control csv?
 - CosFace loss function?
-- 
+- 227 plates leak info? 
