@@ -18,7 +18,6 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - Customized the classifier part of densne-121 with dropout and batchnorm
 - Starting full run with whole complete training set with batch_size=6, lr=0.001, epoch=20, print and validate every 1200
 - Ran 5 hours for 4 epochs, obtained the following result and decided to early stop it <br/>
-- ![v1](https://github.com/fiyero/RCIC_kaggle/blob/master/1st_run.JPG)<br/>
 - Adjust lr into 0.0001 and accumulate gradient update into batch_size=30
 - rewrite and fix the mean_val_loss
 
