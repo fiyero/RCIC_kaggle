@@ -52,6 +52,11 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - freeze the extraction layers and train classifier only for 2 warm up epochs then continue the training to see if have improvement
 - batch_size=4, accumulate batch update into batch_size=16, lr=0.001
 
+## Day 12 19th Sep 2019
+- it takes around 2hr 20mins to train for one epoch for model v6
+- time is running short so use progressive training for model v7 and add weight decay to optimizer
+- Still trying to understand arcface, cosface, focal loss..etc guess will just apply vanila loss function for simplicity
+- wont hv decent result but main purpose is for learning
 
 ## TBC
 - how to use train_control csv?
