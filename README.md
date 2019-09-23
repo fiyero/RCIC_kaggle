@@ -64,8 +64,8 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - the greatest limitation for my model is img size as can be seen from the discussion forum all outstanding models are using at least img size=512, while I am only using img size=224
 - The time it takes for me to train one epoch with 512 pixel img is more than 2 hrs, i cant afford the time.
 - the current v9.4 model has been trained for around 5x epochs, each costs around 28mins only.
-- To score better result, I have to train with img size=512 and with re write loss function such as arcface, cosface or even 
-combine them all, which will take me a lot of time to train and to learn.
+- To score better result, I have to train with img size=512, re-write loss function such as arcface, cosface or even 
+combine them all and with heavier augmentation which will take me a lot of time to train and to learn.
 - Have to compromise with the resources and reality
 
 ## TBC
