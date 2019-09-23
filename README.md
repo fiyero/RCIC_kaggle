@@ -58,7 +58,17 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - Still trying to understand arcface, cosface, focal loss..etc guess will just apply vanila loss function for simplicity
 - wont hv decent result but main purpose is for learning
 
+## Day 16 23th Sep 2019
+- just occassionally experiment different techniques for the past few days
+- v9.4 has reached around the top 20% of the public LB
+- the greatest limitation for my model is img size as can be seen from the discussion forum all outstanding models are using at least img size=512, while I am only using img size=224
+- The time it takes for me to train one epoch with 512 pixel img is more than 2 hrs, i cant afford the time.
+- the current v9.4 model has been trained for around 5x epochs, each costs around 28mins only.
+- To score better result, I have to train with img size=512 and with re write loss function such as arcface, cosface or even 
+combine them all, which will take me a lot of time to train and to learn.
+- Have to compromise with the resources and reality
+
 ## TBC
 - how to use train_control csv?
 - CosFace loss function?
-- 227 plates leak info? 
+- ~~227 plates leak info? ~~
