@@ -71,4 +71,4 @@ combine them all, which will take me a lot of time to train and to learn.
 ## TBC
 - how to use train_control csv?
 - CosFace loss function?
-~~227 plates leak info? ~~
+- ~~227 plates leak info?~~
