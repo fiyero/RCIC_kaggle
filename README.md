@@ -68,6 +68,11 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 combine them all and with heavier augmentation which will take me a lot of time to train and to learn.
 - Have to compromise with the resources and reality
 
+## Day 18 25th Sep 2019
+- v10.7 figured out how to utlize a bit of the control_csv
+- decided to stick to size=256 
+- the completition will end soon, looking forward to see the solution by top performers
+
 ## TBC
 - how to use train_control csv?
 - CosFace loss function?
