@@ -6,6 +6,9 @@ https://www.kaggle.com/c/recursion-cellular-image-classification
 - Finalize the final submission ~~within 10 days~~ (failed)
 - aim to get into top ~~17% or above~~ (not enough time and effort, better aim top 30%)
 
+## Result:
+- - ![p1](https://github.com/fiyero/RCIC_kaggle/blob/master/RCIC_rank.JPG)<br/>
+
 # Developing log
 ## Day 1 8th Sep 2019
 - take a quick scan of the dataset, EDA
