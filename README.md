@@ -73,6 +73,13 @@ combine them all and with heavier augmentation which will take me a lot of time 
 - but is a bit too late as the completition will end soon, looking forward to see the solution by top performers
 - seem my model is not overfit yet, hope can rush into top 15% at the private LB
 
+## Day 20 27th Sep 2019
+- The completition is over, I rank 128th, out of 866 teams, within the top 15%.
+- ![p1](https://github.com/fiyero/RCIC_kaggle/blob/master/RCIC_rank.JPG)<br/>
+- I am satisfied with the result as my original goal was just getting into top 17%(later change to top 30%)
+- I failed to wake up at the morning to submit my last training model before the deadline, otherwise my ranking maybe 3-5th higher, but it doesnt't matter as won't change the big picture.
+- Still have a lot to learn and a long way to go, now is time to learn from the top performers and aim at better ranking for the next competition
+
 ## TBC
 - how to use train_control csv?
 - CosFace loss function?
